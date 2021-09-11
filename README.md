@@ -10,4 +10,3 @@ O administrador poderá editar e excluir os demais usuários que se cadastraram 
 O usúario poderá consultar os alunos cadastrados no sistema.
 Será exibido a lista dos usuários excluídos.
 O sitema possui tela de login com as opções de "esqueci a senha" e "novo usuario".
-Será enviado uma nova senha para o email do usuário ou adm caso solicite.
